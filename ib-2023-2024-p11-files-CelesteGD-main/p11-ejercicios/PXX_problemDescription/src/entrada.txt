@@ -1,0 +1,2 @@
+[37, 5, -99, 128], [0, -1000] y [25, 1, 67], el fichero de entrada podría ser el siguiente:
+
